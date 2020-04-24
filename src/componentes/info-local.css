@@ -1,0 +1,13 @@
+.div-botao-voltar {
+  position: fixed;
+  top: 10px;
+  right: 5px;
+  z-index: 102;
+}
+
+.div-botao-voltar button {
+  margin: 10px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}

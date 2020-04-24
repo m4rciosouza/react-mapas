@@ -1,0 +1,11 @@
+.div-exibir-info {
+  position: fixed;
+  top: 220px;
+  right: 5px;
+  z-index: 101;
+}
+
+.div-exibir-info button {
+  width: 220px;
+  margin: 10px;
+}
